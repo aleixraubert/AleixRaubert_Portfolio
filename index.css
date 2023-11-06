@@ -1,4 +1,8 @@
+body {
+    backgorund-color: aquamarine;
+}
+
 a {
-    text-decoration: none;
-    color:aquamarine;
+    text-decoration: bold;
+    color:blue;
 }
