@@ -1,8 +1,42 @@
 body {
-    backgorund-color: aquamarine;
+    background-color: #ffc045;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding:0.5rem;
+    background-color: orange;
+    border-radius: 15px;
+}
+
+header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-color: #0a91ab;
+}
+
+.h3 {
+    padding-left: 1rem;
+}
+
+.div {
+    position: absolute;
+    top: 4rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 a {
-    text-decoration: bold;
-    color:blue;
+    text-decoration: none;
+    color: black;
+    padding:0.5rem;
+    background-color: red;
+    border-radius: 15px;
 }
