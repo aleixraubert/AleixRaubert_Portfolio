@@ -1,12 +1,12 @@
 body {
-    background-color: #ffc045;
+    background-color: white;
     font-family: 'Times New Roman', Times, serif;
     border: 0;
     padding: 0;
     margin: 0;
 }
 
-h1 {
+.infografia {
     padding:0.5rem;
     background-color: gray;
     border-radius: 15px;
